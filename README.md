@@ -31,6 +31,8 @@
 ## Installation
 
 ```bash
+$ git clone https://github.com/sutin1234/NestJs-Api.git
+$ cd NestJs-Api
 $ npm install
 ```
 
